@@ -1,0 +1,246 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sticky v2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-06-03 12:49:44+0000\n"
+"Last-Translator: cvmh <nicolas@cvmhsolutions.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: includes/admin.php:33
+#@ cvmh_sticky
+msgid "Stick this post to the front page"
+msgstr ""
+
+#: includes/admin.php:34
+#@ cvmh_sticky
+msgid "Public, Sticky"
+msgstr ""
+
+#: includes/admin.php:52
+#@ default
+msgid "Status"
+msgstr ""
+
+#: includes/admin.php:53
+#@ sticky
+msgid "Make this post sticky"
+msgstr ""
+
+#. translators: plugin header field 'Name'
+#: includes/admin.php:54
+#: sticky.php:0
+#@ sticky
+msgid "Sticky"
+msgstr ""
+
+#: includes/admin.php:83
+#@ sticky
+msgid "Settings"
+msgstr ""
+
+#: includes/form.php:18
+#@ sticky
+msgid "General"
+msgstr ""
+
+#: includes/form.php:19
+#: includes/form.php:41
+#@ sticky
+#@ default
+msgid "Posts"
+msgstr ""
+
+#: includes/form.php:20
+#@ sticky
+msgid "Thumbnail"
+msgstr ""
+
+#: includes/form.php:21
+#@ sticky
+msgid "Content"
+msgstr ""
+
+#: includes/form.php:28
+#@ sticky
+msgid "Title:"
+msgstr ""
+
+#: includes/form.php:39
+#@ sticky
+msgid "Post Type:"
+msgstr ""
+
+#: includes/form.php:50
+#@ sticky
+msgid "Number of posts to show:"
+msgstr ""
+
+#: includes/form.php:55
+#@ sticky
+msgid "to show all posts."
+msgstr ""
+
+#: includes/form.php:63
+#@ sticky
+msgid "Display thumbnail"
+msgstr ""
+
+#: includes/form.php:67
+#@ sticky
+msgid "Thumbnail size:"
+msgstr ""
+
+#: includes/form.php:81
+#@ sticky
+msgid "Display post title"
+msgstr ""
+
+#: includes/form.php:85
+#@ sticky
+msgid "Title length:"
+msgstr ""
+
+#: includes/form.php:90
+#@ sticky
+msgid "Number of characters."
+msgstr ""
+
+#: includes/form.php:93
+#@ sticky
+msgid "Title tag:"
+msgstr ""
+
+#: includes/form.php:98
+#@ sticky
+msgid "eg. h3 for &lt;h3&gt;."
+msgstr ""
+
+#: includes/form.php:103
+#@ sticky
+msgid "Display post excerpt"
+msgstr ""
+
+#: includes/form.php:107
+#@ sticky
+msgid "Excerpt length:"
+msgstr ""
+
+#: includes/form.php:112
+#@ sticky
+msgid "Number of words."
+msgstr ""
+
+#: includes/form.php:117
+#@ sticky
+msgid "Display \"read more\" link"
+msgstr ""
+
+#: includes/form.php:121
+#@ sticky
+msgid "\"Read more\" link tag:"
+msgstr ""
+
+#: includes/form.php:125
+#@ sticky
+msgid "Anchor"
+msgstr ""
+
+#: includes/form.php:129
+#@ sticky
+msgid "Button"
+msgstr ""
+
+#: includes/form.php:133
+#@ sticky
+msgid "\"Read more\" link text:"
+msgstr ""
+
+#: includes/functions.php:25
+#@ sticky
+msgid "Sticky posts"
+msgstr ""
+
+#: includes/functions.php:36
+#@ sticky
+msgid "Read more"
+msgstr ""
+
+#: includes/settings.php:12
+#@ sticky
+msgid "Nonce error."
+msgstr ""
+
+#: includes/settings.php:16
+#@ sticky
+msgid "You do not have permission to change the settings for this extension."
+msgstr ""
+
+#: includes/settings.php:20
+#@ sticky
+msgid "Settings saved."
+msgstr ""
+
+#: includes/settings.php:33
+#@ sticky
+msgid "CVMH Sticky"
+msgstr ""
+
+#: includes/settings.php:36
+#@ sticky
+msgid "To display sticky posts, use the widget or shortcode [cvmh-sticky]."
+msgstr ""
+
+#: includes/settings.php:45
+#@ sticky
+msgid "Post types"
+msgstr ""
+
+#: includes/settings.php:67
+#@ sticky
+msgid "Save changes"
+msgstr ""
+
+#: includes/widget.php:14
+#@ sticky
+msgid "A block which displays a list of sticky pages/posts/custom posts."
+msgstr ""
+
+#. translators: plugin header field 'PluginURI'
+#. translators: plugin header field 'AuthorURI'
+#: sticky.php:0
+#@ sticky
+msgid "http://www.agence-web-cvmh.fr"
+msgstr ""
+
+#. translators: plugin header field 'Description'
+#: sticky.php:0
+#@ sticky
+msgid "Adds sticky support for pages and/or custom posts."
+msgstr ""
+
+#. translators: plugin header field 'Author'
+#: sticky.php:0
+#@ sticky
+msgid "CVMH solutions"
+msgstr ""
+
+#. translators: plugin header field 'Version'
+#: sticky.php:0
+#@ sticky
+msgid "2.0"
+msgstr ""
+
